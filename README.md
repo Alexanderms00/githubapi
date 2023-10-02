@@ -1,7 +1,7 @@
-Github api
-https://alexanderms00.github.io/githubapi/
-https://alexanderms00.github.io/githubapi/
-https://alexanderms00.github.io/githubapi/
+Github api\
+https://alexanderms00.github.io/githubapi/\
+https://alexanderms00.github.io/githubapi/\
+https://alexanderms00.github.io/githubapi/\
 
 
 Описание:
