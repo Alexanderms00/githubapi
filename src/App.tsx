@@ -7,7 +7,7 @@ function App() {
 		<>
 		<Navigation/>
 			<Routes>
-				<Route path='/' element={<HomePage />} />
+				<Route path='/githubapi' element={<HomePage />} />
 				<Route path='/favorites' element={<FavoritesPage />} />
 			</Routes>
 		</>
